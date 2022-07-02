@@ -8,7 +8,7 @@
   <summary>Contact me!</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">You can reach me by:</h2>
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/henrique-fonseca-ab1870199/" target="blank"><img align="center"
