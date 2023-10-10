@@ -17,7 +17,7 @@
       <a href="https://www.facebook.com/henrique.teixeirafonseca/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-       <a href="https://mailto:henri.teix@gmail.com" target="blank"><img align="center"
+       <a href="https://mailto:henriquetxf99@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="https://www.instagram.com/henriquetxf/" target="blank"><img align="center"
