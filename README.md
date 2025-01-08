@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi, my name is Henrique Fonseca and I'm a portuguese Software Engineer <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
-<h4 align="center">Im' 25 y/o, graduated in Informatics Engineering in 2021, at <a href="https://www.isec.pt/PT/Default.aspx">ISEC</a>, and finished my Masters Degree, also in Informatics Engineering, in 2023 at <a href="https://www.uc.pt/fctuc/">FCTUC</a>.</h4>
+<h4 align="center">I'm 25 y/o, graduated in Informatics Engineering in 2021, at <a href="https://www.isec.pt/PT/Default.aspx">ISEC</a>, and finished my Masters Degree, also in Informatics Engineering, in 2023 at <a href="https://www.uc.pt/fctuc/">FCTUC</a>.</h4>
 <h4 align="center">Currently, I'm employed at <a href="https://criticalsoftware.com/pt">CSW</a>, working Cybersecurity projects for <a href="https://www.alstom.com/">Alstom</a>.</h4>
 </div>
 
@@ -33,7 +33,7 @@
   <summary>Tecnologies</summary>
 <div>
   <samp>
-    <h2 align="center">I've some experience with the following languages/frameworks/tools:</h2>
+    <h2 align="center">I have some experience with the following languages/frameworks/tools:</h2>
     <p align="center">
       <br/>
       <p align="left"> 
